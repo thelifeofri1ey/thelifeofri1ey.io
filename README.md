@@ -1,2 +1,0 @@
-# thelifeofri1ey.io
-
