@@ -1,3 +1,16 @@
+# In _config.yml
+...
+defaults:
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "project"
+      author: "Riley G"
+      category: "project"
+...
+
 theme: minima
 title: The Life of Riley
 description: Namaste, Bitches
