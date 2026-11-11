@@ -1,2 +1,4 @@
-jekyll-default-layout:
-  html_pages: true
+theme: minima
+title: The Life of Riley
+description: Namaste, Bitches
+author: Riley G, 2026
